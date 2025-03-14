@@ -1,0 +1,49 @@
+{
+  "name": "3d_portfolio",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "lint": "eslint .",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@babel/runtime": "^7.26.10",
+    "@emailjs/browser": "^4.4.1",
+    "@react-three/drei": "^10.0.4",
+    "@react-three/fiber": "^9.1.0",
+    "@tailwindcss/postcss": "^4.0.14",
+    "autoprefix": "^1.0.1",
+    "express": "^4.21.2",
+    "express-jwt": "^8.5.1",
+    "framer-motion": "^12.5.0",
+    "jsonwebtoken": "^9.0.2",
+    "lodash": "^4.17.21",
+    "maath": "^0.10.8",
+    "moment": "^2.30.1",
+    "postcss-cli": "^11.0.1",
+    "qs": "^6.14.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "react-router-dom": "^7.3.0",
+    "react-vertical-timeline-component": "^3.5.3",
+    "ws": "^8.18.1"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.22.0",
+    "@types/react": "^19.0.10",
+    "@types/react-dom": "^19.0.4",
+    "@vitejs/plugin-react": "^4.3.4",
+    "autoprefixer": "^10.4.21",
+    "eslint": "^9.22.0",
+    "eslint-plugin-react-hooks": "^5.2.0",
+    "eslint-plugin-react-refresh": "^0.4.19",
+    "globals": "^16.0.0",
+    "postcss": "^8.5.3",
+    "tailwind": "^4.0.0",
+    "tailwindcss": "^4.0.14",
+    "vite": "^6.2.2"
+  }
+}
